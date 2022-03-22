@@ -17,7 +17,7 @@
         <div class="container">
           <div class="jumbotron">
             <div class="row">
-                <h2>CRUD em PHP <span class="badge badge-secondary">UILSON </span></h2>
+                <h2>CRUD PHP <span class="badge badge-secondary">UILSON </span></h2>
             </div>
           </div>
             </br>
